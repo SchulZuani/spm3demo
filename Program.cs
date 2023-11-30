@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World! Git is cool. Really ? YESS");
-Console.WriteLine("Some Text m1 f1 remote1 f2");
+Console.WriteLine("Some Text m1 f1 remote1 f2 f3 f4");
+
